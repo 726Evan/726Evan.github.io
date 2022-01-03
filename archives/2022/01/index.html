@@ -43,7 +43,7 @@
 
 
 
-
+<link rel="dns-prefetch" href="https://726Evan.github.io">
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -386,7 +386,16 @@
 
 
 
-<script class="next-config" data-name="utterances" type="application/json">{"enable":true,"repo":"https://github.com/726Evan/726Evan.github.io.git","issue_term":"pathname","theme":"github-light"}</script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-cn","enable":true,"serverURL":"https://726Evan.github.io","placeholder":"Just go","avatar":"mm","pageSize":10,"visitor":false,"comment_count":true,"requiredFields":[],"meta":["nick","mail","link"],"requiredMeta":[],"libUrl":"https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js","el":"#waline-comments","path":"/archives/2022/01/"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.waline.el).then(() => 
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => {
+    new Waline(CONFIG.waline);
+  });
+});
+</script><script class="next-config" data-name="utterances" type="application/json">{"enable":true,"repo":"https://github.com/726Evan/726Evan.github.io.git","issue_term":"pathname","theme":"github-light"}</script>
 <script src="/js/third-party/comments/utterances.js"></script>
 
 </body>

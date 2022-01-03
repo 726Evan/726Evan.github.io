@@ -267,6 +267,12 @@ dd {
   margin: 0;
   padding: 0;
 }
+.vcontent p img {
+  display: inline;
+}
+.vpreview p img {
+  display: inline;
+}
 .table-container {
   overflow: auto;
 }
