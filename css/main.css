@@ -2529,9 +2529,6 @@ ul.breadcrumb li:last-child {
   border-bottom-color: #111;
   color: #111;
 }
-.utterances {
-  max-width: unset;
-}
 .search-active {
   overflow: hidden;
 }
@@ -2896,7 +2893,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #9dffff;
+  background: #fc5dff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
