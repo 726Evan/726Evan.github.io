@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/01/01/hello-world/</url>
-    <content><![CDATA[<h2 id="快速上手——网站的基础操作"><a href="#快速上手——网站的基础操作" class="headerlink" title="快速上手——网站的基础操作"></a>快速上手——网站的基础操作</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<p>更多请点击: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="本地运行"><a href="#本地运行" class="headerlink" title="本地运行"></a>本地运行</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>更多请点击: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>更多请点击: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>更多请点击: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<hr>
-<p>本网站的框架为 <a href="https://hexo.io/">Hexo</a>，点击可访问Hexo的 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<p>关于Hexo的详细文档 <a href="https://hexo.io/docs/">documentation</a> </p>
-<p>关于Hexo的故障排除 <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>C语言笔记——指针</title>
     <url>/2022/01/01/C%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E6%8C%87%E9%92%88/</url>
     <content><![CDATA[<h2 id="指针与数组"><a href="#指针与数组" class="headerlink" title="指针与数组"></a>指针与数组</h2><h4 id="求数组长度"><a href="#求数组长度" class="headerlink" title="求数组长度"></a>求数组长度</h4><p>若定义一个数组int a[]={1,2,3,4,5}</p>
@@ -75,6 +52,35 @@
       </tags>
   </entry>
   <entry>
+    <title>博客文章</title>
+    <url>/2022/01/01/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这里什么都没有，看看别的吧~</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/01/hello-world/</url>
+    <content><![CDATA[<h2 id="快速上手——网站的基础操作"><a href="#快速上手——网站的基础操作" class="headerlink" title="快速上手——网站的基础操作"></a>快速上手——网站的基础操作</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<p>更多请点击: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="本地运行"><a href="#本地运行" class="headerlink" title="本地运行"></a>本地运行</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>更多请点击: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>更多请点击: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>更多请点击: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<hr>
+<p>本网站的框架为 <a href="https://hexo.io/">Hexo</a>，点击可访问Hexo的 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<p>关于Hexo的详细文档 <a href="https://hexo.io/docs/">documentation</a> </p>
+<p>关于Hexo的故障排除 <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>友情链接</title>
     <url>/2022/01/02/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</url>
     <content><![CDATA[<p>这是 <a href="https://jinkuihua.github.io/">小潘同学</a> 的网站，欢迎去围观~</p>
@@ -84,19 +90,13 @@
       </tags>
   </entry>
   <entry>
-    <title>博客文章</title>
-    <url>/2022/01/01/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>这里什么都没有，看看别的吧~</p>
-]]></content>
-  </entry>
-  <entry>
     <title>苏丹政变循环</title>
     <url>/2022/01/18/%E8%8B%8F%E4%B8%B9%E6%94%BF%E5%8F%98%E5%BE%AA%E7%8E%AF/</url>
     <content><![CDATA[<p>马克思曾补充黑格尔说过这样一句话：一切重大的历史事件和人物，都出现两次，第一次是悲剧，第二次是闹剧。那么，当同样的剧情出现第三次、甚至第四次时，它又是什么呢？所以在这场政变中，我不想评价当事人双方孰好孰坏，而是想探讨一下，阻碍苏丹现代化的根本原因。苏丹独立的66年里，有40年都在打内战，期间经历了五次政变和三代军事独裁统治。每一个独裁者，都失败得“各有特色”，他们刚上台时都胸怀壮志，都发誓要从危机中拯救国家，试图推进一些改革，取得有限的经济发展。然而，一旦坐稳了位置，他们又会背叛自己最初的阶级，为了手中的权力开历史倒车，变成维护既得利益、阻碍进步的反动力量。</p>
 <span id="more"></span>
 
 <p><strong>国家在现代化过程中，必然会因为利益分配不均，引发利益集团的反弹。现代政党的一个功能，就是协调各方利益集团的矛盾</strong>。然而，英国、埃及的殖民遗产，给苏丹留下了有限的官僚体制，和一个强势的军事集团，却没有留下一套成熟的政党体系。殖民者的“分而治之”，导致<strong>松散的部落，依然是这个国家最基层的组织形式****，空被套上了一层“政党”的外壳</strong>。苏丹主要的反对派，叫“自由与变革力量联盟”，就是22个反对派团体组成的松散联合体。独裁者一垮台，马上就因为分赃不均，暴露出了大量矛盾。<strong>统一的国族认同，非但没有因“民主”而产生，反倒被排他的部族意识所割裂</strong>。只有一个能超越教派、种族和区域局限性的存在，才能将国家真正拧成一股绳。</p>
-<p><img src="C:\Users\Evan\AppData\Roaming\Typora\typora-user-images\image-20220118133738782.png" alt="image-20220118133738782"></p>
+<p><img src="F:\网站\Blog\source\images\sd.png" alt="sd"></p>
 <p>早已失去信任的苏丹文官集团，由于受到军方迫害，威望开始“触底反弹”。但从长远来看，既然经济的困境，能压垮一个巴希尔政权，那就同样能左右这个过渡政府的命运。</p>
 <p>1978年，苏丹的人均GDP是中国的三倍。今天，中国的人均GDP早已突破一万美元，而苏丹却还不到600美元，跟阿富汗一个水平。巴希尔时代的石油繁荣，让这个国家的人口，从世纪初的2600万，增长到4400万。而现在的苏丹，既拿不出任何可以出口的东西，还要从国外进口海量的粮食，还欠下了500多亿美元还不上的外债，投资价值无限接近于0。它的困局，恐怕已经不是换个体制、换个政府，就能变好的问题了。再不找到新的经济增长点，苏丹的全面社会崩溃，也只是个时间问题。到时候，留给苏丹的，恐怕就只有马克思、马尔萨斯和马克沁，这三驾“马”车了。</p>
 <p>【节选自谷智轩】</p>
